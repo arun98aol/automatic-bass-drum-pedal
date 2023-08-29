@@ -46,3 +46,7 @@ Presents the results and observations of the project, including song recognition
 ## 8 Challenges Faced and Our Approach
 
 Discusses the challenges encountered during the project, such as lack of access to hardware components, and the strategies adopted to overcome these challenges.
+
+---
+
+_For detailed figures, tables, and full content, please refer to the complete [report](https://github.com/arun98aol/automatic-bass-drum-pedal/blob/master/2_AutomaticBassDrumPedal.pdf)._
